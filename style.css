@@ -124,7 +124,7 @@ html,body{
     height: 35%;
     width: 100%;
     position: relative;
-    background-image: '/resume/bg.jpg';
+    background-image: url('/resume/bg.jpg');
     background-position: center;
     background-size: 110%;
 }
